@@ -1,0 +1,102 @@
+Script iniciado em  dia 16/04/2025 às 12h 32m
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+[
+    {
+        "marca": "",
+        "modelo": "",
+        "ano": "",
+        "renavan": "",
+        "placa": "",
+        "cor": ""
+    }
+]
+
